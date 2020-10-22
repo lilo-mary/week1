@@ -1,7 +1,8 @@
 {
 "headers": {
 "/*": {
-"X-Author": "lilo-mary"
+"X-Author": "lilo-mary",
+"Access-Control-Allow-Origin": "*"
   }
  }
 }
